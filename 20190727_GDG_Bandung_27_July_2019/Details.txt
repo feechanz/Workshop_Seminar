@@ -1,0 +1,15 @@
+https://www.meetup.com/GDG-Bandung/events/262769538/
+Details
+I/O Extended datang lagi ke Bandung, yuk gabung untuk membahas berbagai teknologi yang kemarin sempat jadi sorotan pada perhelatan akbar tahunan Google I/O 2019.
+
+Teknologi yang akan dibahas:
+
+1. Flutter
+2. Guess.js
+3. Web
+4. Cloud (Server / ML / API)
+5. Google Analytics
+6. TensorFlow.js
+7. Idiomatic Python
+8. Kotlin
+9. Google Assistant

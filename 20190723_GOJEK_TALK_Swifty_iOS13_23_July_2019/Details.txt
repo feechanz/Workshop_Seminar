@@ -1,0 +1,15 @@
+https://www.meetup.com/GO-TALK/events/263158031/
+Details
+GOJEK x Swifty ID
+
+Calling out iOS enthusiast to talk with us at GO-TALK! Check our speaker and topics below:
+
+Making the GO-FOOD Checkout Experience Delightful (Vania Radmila and Alfian Losari - Product Engineer at GOJEK)
+
+As a pair programming partner, they will presenting topic about how GO-FOOD team improve the delightfulness of the checkout experience. In GO-FOOD checkout screen, they are using a simple diffing mechanism to check the snapshot of old data and new data plus performing animation to insert and remove data. This topic will show you a demo before and after diffing using their own implementation in GO-FOOD check out page and how they using iOS 13 new data source snapshot API.
+
+Swift UI in Practice - Hardian Prakasa - Software Engineer at Dana
+
+In the last WWDC, Apple announces the birth of a new UI toolkit for Swift ecosystem. SwiftUI introduces a declarative way to build User Interfaces across all Apple platform that’s easy to read and natural to write. Automatic support for Dynamic Type, Dark Mode, localization, and accessibility make the SwiftUI code really powerful. In this session, let's take a look at some code and see how SwiftUI works in action.
+
+Book your seat now!
